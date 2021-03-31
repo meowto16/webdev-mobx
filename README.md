@@ -8,3 +8,4 @@
 
 - [0. Введение](./docs/0.%20Introduction)
 - [1. Установка окружения](./docs/1.%20Setup%20environment)
+- [2. Наблюдаемое и наблюдатель](./docs/2.%20Observable%20&%20Observer)
